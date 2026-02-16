@@ -7,6 +7,6 @@ This repository contains Command-Line Task Manager; a simple Python CLI app to m
 - Delete task
 
 2) tasks are stored in a json file named: 'tasks.json'
-
+3) Requirement: python 3.8+
 3) Run:
 python tasks.py
