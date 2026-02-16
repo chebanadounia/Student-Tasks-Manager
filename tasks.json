@@ -7,4 +7,9 @@
         "title": "AI homework",
         "done": false
     }
+    ,
+    {
+        "title": "Dedactic presentation",
+        "done": true
+    }
 ]
