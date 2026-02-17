@@ -10,3 +10,4 @@ This repository contains Command-Line Task Manager; a simple Python CLI app to m
 3) Requirement: python 3.8+
 3) Run:
 python tasks.py
+4) Github link: https://github.com/chebanadounia/Student-Tasks-Manager
